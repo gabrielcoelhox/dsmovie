@@ -1,0 +1,6 @@
+package com.example.dsmovie.services;
+
+@Service
+public class MovieService {
+
+}

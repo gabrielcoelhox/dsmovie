@@ -1,0 +1,5 @@
+package com.example.dsmovie.dto;
+
+public class MovieDTO {
+
+}

@@ -1,0 +1,21 @@
+package com.example.dsmovie.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.dsmovie.dto.MovieDTO;
+import com.example.dsmovie.entities.Movie;
+import com.example.dsmovie.repositories.MovieRepository;
+
+@Service
+public class MovieService {
+
+	@Autowired
+	private MovieRepository repository;
+	
+	public List<MovieDTO> findAll() {
+		List<Movie> result = repository.findAll();
+	}
+}
