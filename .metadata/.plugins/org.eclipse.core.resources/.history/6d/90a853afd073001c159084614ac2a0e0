@@ -1,0 +1,7 @@
+package com.example.dsmovie.entities;
+
+public class Score {
+
+	private ScorePK id = new ScorePK();
+	private Double value;
+}

@@ -1,0 +1,5 @@
+package com.example.dsmovie.entities;
+
+public class ScorePK {
+
+}
