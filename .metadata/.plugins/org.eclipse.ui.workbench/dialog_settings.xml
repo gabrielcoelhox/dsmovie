@@ -12,8 +12,8 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
-			<item value="org.eclipse.ui.wizards.new.file"/>
 			<item value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+			<item value="org.eclipse.ui.wizards.new.file"/>
 		</list>
 		<list key="orderedProviders">
 			<item value="org.eclipse.ui.wizards"/>
@@ -24,8 +24,8 @@
 			<item value="1"/>
 		</list>
 		<list key="textArray">
-			<item value="file"/>
 			<item value="class"/>
+			<item value="file"/>
 		</list>
 	</section>
 </section>

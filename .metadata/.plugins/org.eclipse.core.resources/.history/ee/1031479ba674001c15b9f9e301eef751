@@ -1,0 +1,10 @@
+package com.example.dsmovie.dto;
+
+public class ScoreDTO {
+
+	private Long movieID;
+	private String email;
+	private Double score;
+	
+	
+}
